@@ -3,6 +3,7 @@ dependencies:
   - numpy
   - matplotlib
   - IPython
+  - rise
   - pip:
     - bruges
     - segyio
